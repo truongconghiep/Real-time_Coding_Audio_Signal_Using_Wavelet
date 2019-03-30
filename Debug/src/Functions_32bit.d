@@ -1,0 +1,37 @@
+src/Functions_32bit.doj: ../src/Functions_32bit.c
+src/Functions_32bit.doj: ../src/Functions_32bit.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/stdlib.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/yvals.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/stdlib_bf.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/math.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/ymath.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/math_bf.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/fract_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/fract_math.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/fr2x16_math.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/fr2x16_base.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/r2x16_base.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/r2x16_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/raw_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/i2x16_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/fr2x16_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/ccblkfn.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/complex_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/anomaly_macros_rtl.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/adi_core.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/stdint.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/mc_typedef.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/builtins.h
+src/Functions_32bit.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.8.3/Blackfin/include/sys/builtins_support.h
