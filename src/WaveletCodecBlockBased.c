@@ -376,6 +376,7 @@ void WaveletCompression( int* input_block, volatile data* mydata_transmit)
 			temp_data_transmit = mydata_transmit->myword[i-1] >> 63; 		 // "rescue" the data
 			mydata_transmit->myword[i]  += temp_data_transmit;
 		}
+		mydata_transmit->myword[0] = mydata_transmit->myword[0] << 1; // Diese Zeile ausserhalb der Schleife fehlte
 	}
 }
 
